@@ -1,0 +1,47 @@
+.footer-columns{
+    display: flex;
+    flex: 50%;
+    margin: 20px;
+}
+header, footer{
+    background-color: skyblue;
+    padding: 20px;
+}
+main{
+    padding: 10px;
+    background-color: silver;
+}
+.post1{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}   
+h1{
+    margin: 20px;
+    background-color: skyblue;
+}
+p{
+    margin: 20px;
+}
+.kak{
+    width: 416px;
+}
+.sl{
+    width: 302px;
+}
+.post2{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.post3{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
